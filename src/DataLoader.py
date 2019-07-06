@@ -12,12 +12,12 @@ from helpers import preprocessor
 
 class FilePaths:
     """ Filenames and paths to data in CLI"""
-    # fnCharList = '../model/charList.txt'
-    # fnWordCharList = '../model/wordCharList.txt'
-    # fnCorpus = '../data/corpus.txt'
-    # fnAccuracy = '../model/accuracy.txt'
-    # fnTrain = 'training/data/'
-    # fnInfer = 'infer/data/anthine forint alepole twopenny-halfpenny Pooh-Bah_973.jpg'
+    fnCharList = '../model/charList.txt'
+    fnWordCharList = '../model/wordCharList.txt'
+    fnCorpus = '../data/corpus.txt'
+    fnAccuracy = '../model/accuracy.txt'
+    fnTrain = 'training/data/'
+    fnInfer = 'infer/data/a cản trở rễ lúa thóc tái sinh_1043.jpg'
 
     # """ Filenames and paths to data in IDE """
     # fnCharList = 'model/charList.txt'
@@ -28,12 +28,12 @@ class FilePaths:
     # fnInfer = 'src/infer/data/anthine forint alepole twopenny-halfpenny Pooh-Bah_973.jpg'
 
     """ Filenames and paths to data in IDE """
-    fnCharList = 'model/charList-vn.txt'
-    fnWordCharList = 'model/wordCharList-vn.txt'
-    fnCorpus = 'data/corpus-vn.txt'
-    fnAccuracy = 'model/accuracy.txt'
-    fnTrain = 'src/training/data/'
-    fnInfer = 'src/infer/data/a cản trở rễ lúa thóc tái sinh_1043.jpg'
+    # fnCharList = 'model/charList-vn.txt'
+    # fnWordCharList = 'model/wordCharList-vn.txt'
+    # fnCorpus = 'data/corpus-vn.txt'
+    # fnAccuracy = 'model/accuracy.txt'
+    # fnTrain = 'src/training/data/'
+    # fnInfer = 'src/infer/data/a cản trở rễ lúa thóc tái sinh_1043.jpg'
 
 
 class Sample:
